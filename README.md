@@ -1,5 +1,8 @@
 # Machine Learning: A New Used Car Salesman
 
+An article for this repo can be found at this link https://www.linkedin.com/pulse/machine-learning-new-used-car-salesman-morgan-allen/?published=t.
+
+
 This repository contains all of the steps in the analysis and model building for a used car price predictor. This includes a folder containing all the data, a notebook where all the data was cleaned and analyzed, an article, and a presentation. Below, I will go into what you can expect from each of these.
 
 ### Data
